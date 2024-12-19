@@ -1,0 +1,9 @@
+streamlit
+json
+datetime
+re
+langchain
+openai
+pandas
+st-aggrid
+scipy
